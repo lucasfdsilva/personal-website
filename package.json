@@ -1,0 +1,20 @@
+{
+  "name": "backend-personal-website",
+  "version": "1.0.0",
+  "description": "Personal Website Backend",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon ./src/server.js",
+    "start": "node ./src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasfdsilva/personal-website.git"
+  },
+  "author": "Lucas DaSilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasfdsilva/personal-website/issues"
+  },
+  "homepage": "https://github.com/lucasfdsilva/personal-website#readme"
+}
